@@ -4,4 +4,4 @@ Dr. Şenol Gülgönül
 
 Ostim Technical University
 
-Electrcial and Electronics Engineering
+Electrical and Electronics Engineering
